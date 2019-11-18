@@ -1,4 +1,4 @@
-# vulnerability-attack-sample
+# dictionary-attack-sample
 This is sample code for exploiting the vulnerability.
 
 **※ Use it for verification purposes of your development application so as not to violate the illegal access prohibition law.**
